@@ -1,6 +1,7 @@
 name: Devops_perfect
 on:
-  workflow_dispatch: null
+  push:
+      branches: [main]
 jobs:
   Linux:
     runs-on: ubuntu-latest
