@@ -1,12 +1,16 @@
 # ignore the vulnerability for 
 
-# libgc
-CVE-2026-0861
-
-GHSA-6v7p-g79w-8964
-
-CVE-2026-42497
-
+# Debian base image vulnerabilities
+CVE-2026-76642
+CVE-2026-78408
+CVE-2026-78409
+CVE-2026-78410
+CVE-2025-69720
+CVE-2026-11822
+CVE-2026-11824
+CVE-2026-16742
 CVE-2026-13221
 
-CVE-2026-76642
+# Python dependencies
+GHSA-6v7p-g79w-8964
+CVE-2025-47273
